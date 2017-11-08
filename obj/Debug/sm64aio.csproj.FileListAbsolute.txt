@@ -1,0 +1,10 @@
+c:\users\robinder\documents\visual studio 2017\Projects\sm64aio\sm64aio\bin\Debug\sm64aio.exe.config
+c:\users\robinder\documents\visual studio 2017\Projects\sm64aio\sm64aio\bin\Debug\sm64aio.exe
+c:\users\robinder\documents\visual studio 2017\Projects\sm64aio\sm64aio\bin\Debug\sm64aio.pdb
+c:\users\robinder\documents\visual studio 2017\Projects\sm64aio\sm64aio\obj\Debug\sm64aio.csprojResolveAssemblyReference.cache
+c:\users\robinder\documents\visual studio 2017\Projects\sm64aio\sm64aio\obj\Debug\sm64aio.Form1.resources
+c:\users\robinder\documents\visual studio 2017\Projects\sm64aio\sm64aio\obj\Debug\sm64aio.Properties.Resources.resources
+c:\users\robinder\documents\visual studio 2017\Projects\sm64aio\sm64aio\obj\Debug\sm64aio.csproj.GenerateResource.Cache
+c:\users\robinder\documents\visual studio 2017\Projects\sm64aio\sm64aio\obj\Debug\sm64aio.exe
+c:\users\robinder\documents\visual studio 2017\Projects\sm64aio\sm64aio\obj\Debug\sm64aio.pdb
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\sm64aio\sm64aio\obj\Debug\sm64aio.Form2.resources
